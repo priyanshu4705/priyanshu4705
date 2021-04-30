@@ -15,5 +15,5 @@
 - [Recipie Finder](https://recipefinder-b6ea4.web.app/)
 - [Movie-Info Database](https://movie-database-app-4705.web.app/)
 - [Firegram - Online Photo Bucket](https://firegram-35b7f.web.app/)
-- [Wheather App](https://react-weather-app-4b0eb.web.app/)
+- [Weather App](https://react-weather-app-4b0eb.web.app/)
 - [Simple StopWatch](https://stopwatch-4f9d3.web.app/)
