@@ -8,6 +8,12 @@
 
     java, python and javascript
 
+### Currently Learning
+
+    - ReactJS with Firebase 
+    - Focusing on my collage studies
+
+
 ## My Live Projects
 
 - [whatsapp clone](https://whatsappclonefrontend.web.app/)
