@@ -17,7 +17,7 @@
   
 ## Connect with me
 
-- 📬 Reach me at **priyanshusrivastava4705@gmail.co**
+- 📬 Reach me at **priyanshusrivastava4705@gmail.com**
 
 ## My Live Projects
 
