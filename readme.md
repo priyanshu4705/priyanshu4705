@@ -23,7 +23,7 @@
 
 ## My Live Projects
 
-- [whatsapp clone](https://whatsappclonefrontend.web.app/)
+- [whatsapp clone]()
 - [Covid-19 Tracker](https://covid-project-df93b.web.app/)
 - [Sorting Visualizer](https://sorting-visualizer-26676.web.app/)
 - [Recipie Finder](https://recipefinder-b6ea4.web.app/)
