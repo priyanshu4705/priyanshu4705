@@ -2,7 +2,7 @@
 
 ## 👋 Hey there,I am Priyanshu Srivastava
 
-    - 20 | 💻 2nd year CSE Student | 🎒 GLBITM collage | AKTU university
+    - 20 | 💻 3rd year CSE Student | 🎒 GLBITM collage | AKTU university
     - from Basti, UP, India
     - loves to code with ☕ and 🎵
 
@@ -12,8 +12,8 @@
 
 ### Currently Learning
 
-    - ReactJS with Firebase 
-    - Focusing on my collage studies
+    - Core computer Science subjects
+    - Backend with python and java
   
 ## Connect with me
 
