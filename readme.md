@@ -1,9 +1,6 @@
-#
-
-## 👋 Hey there,I am Priyanshu Srivastava
+# 👋 Hey there, I'm **Priyanshu Srivastava** ![profile view count](https://komarev.com/ghpvc/?username=priyanshu4705&label=Profile%20views&color=0e75b6&style=flat)
 
     - 21 | 💻 final year CSE Student | 🎒 GLBITM collage | AKTU university
-    - Currenty Software Developer Intern at [Dakoo - the Super app](https://dakoo.app)  [October,2022 - Present]
     - from Basti, UP, India
     - loves to code with ☕ and 🎵
 
@@ -13,8 +10,8 @@
 
 ## Experience
 
-    - Software Developer Intern at [Dakoo - the Super app](https://dakoo.app)   [October,2022 - Present]
-  
+- Currenty Software Developer Intern at [Dakoo - the Super app](https://dakoo.app) [October,2022 - Present]
+
 ## Connect with me
 
 - 📬 Reach me at [Gmail](mailto:priyanshusrivastava4705@gmail.com)
@@ -33,8 +30,6 @@
 - [Simple StopWatch](https://stopwatch-4f9d3.web.app/)
 
 ## Stats
-
-![profile view count](https://komarev.com/ghpvc/?username=priyanshu4705&label=Profile%20views&color=0e75b6&style=flat)
 
 ![github trophies](https://github-profile-trophy.vercel.app/?username=priyanshu4705)
 
