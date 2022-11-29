@@ -3,7 +3,7 @@
 ## 👋 Hey there,I am Priyanshu Srivastava
 
     - 21 | 💻 final year CSE Student | 🎒 GLBITM collage | AKTU university
-    - Currenty Software Developer Intern at [Dakoo - the Super app](https://dakoo.app)	[October,2022 - Present]
+    - Currenty Software Developer Intern at [Dakoo - the Super app](https://dakoo.app)  [October,2022 - Present]
     - from Basti, UP, India
     - loves to code with ☕ and 🎵
 
@@ -13,7 +13,7 @@
 
 ## Experience
 
-    - Software Developer Intern at [Dakoo - the Super app](https://dakoo.app)	[October,2022 - Present]
+    - Software Developer Intern at [Dakoo - the Super app](https://dakoo.app)   [October,2022 - Present]
   
 ## Connect with me
 
