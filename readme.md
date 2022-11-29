@@ -2,24 +2,24 @@
 
 ## 👋 Hey there,I am Priyanshu Srivastava
 
-    - 20 | 💻 2nd year CSE Student | 🎒 GLBITM collage | AKTU university
+    - 21 | 💻 final year CSE Student | 🎒 GLBITM collage | AKTU university
+    - Currenty Software Developer Intern at [Dakoo - the Super app](https://dakoo.app)	[October,2022 - Present]
     - from Basti, UP, India
     - loves to code with ☕ and 🎵
 
 ## Languages i use
 
-    java, python and javascript
+    python, javascript, java and php (basic)
 
-### Currently Learning
+## Experience
 
-    - ReactJS with Firebase 
-    - Focusing on my collage studies
+    - Software Developer Intern at [Dakoo - the Super app](https://dakoo.app)	[October,2022 - Present]
   
 ## Connect with me
 
-- 📬 Reach me at **priyanshusrivastava4705@gmail.com**
+- 📬 Reach me at [Gmail](mailto:priyanshusrivastava4705@gmail.com)
 - [Instagram](https://www.instagram.com/priyanshu4705/)
-- [Lnked In](https://www.linkedin.com/in/priyanshu-srivastava-b49a00204/)
+- [Linked In](https://www.linkedin.com/in/priyanshu-srivastava-b49a00204/)
 
 ## My Live Projects
 
