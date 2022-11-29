@@ -1,6 +1,8 @@
 # 👋 Hey there, I'm **Priyanshu Srivastava** ![profile view count](https://komarev.com/ghpvc/?username=priyanshu4705&label=Profile%20views&color=0e75b6&style=flat)
 
-    - 21 | 💻 final year CSE Student | 🎒 GLBITM collage | AKTU university
+## 👋 Hey there,I am Priyanshu Srivastava
+
+    - 20 | 💻 2nd year CSE Student | 🎒 GLBITM collage | AKTU university
     - from Basti, UP, India
     - loves to code with ☕ and 🎵
 
@@ -10,8 +12,9 @@
 
 ## Experience
 
-- Currenty Software Developer Intern at [Dakoo - the Super app](https://dakoo.app) [October,2022 - Present]
-
+    - ReactJS with Firebase 
+    - Focusing on my collage studies
+  
 ## Connect with me
 
 - 📬 Reach me at [Gmail](mailto:priyanshusrivastava4705@gmail.com)
@@ -20,7 +23,7 @@
 
 ## My Live Projects
 
-- [whatsapp clone](https://whatsappclonefrontend.web.app/)
+- whatsapp clone
 - [Covid-19 Tracker](https://covid-project-df93b.web.app/)
 - [Sorting Visualizer](https://sorting-visualizer-26676.web.app/)
 - [Recipie Finder](https://recipefinder-b6ea4.web.app/)
