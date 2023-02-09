@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Priyanshu Srivastava** ![profile view count](https://komarev.com/ghpvc/?username=priyanshu4705&label=Profile%20views&color=0e75b6&style=flat)
 
-    - 21 | 💻 final year CSE Student | 🎒 GLBITM collage | AKTU university
+    - 21 | 💻 Software Engineer and final year CSE Student | 🎒 GLBITM collage | 🏢 MAQ Software | AKTU university
     - from Basti, UP, India
     - loves to code with ☕ and 🎵
 
@@ -10,7 +10,8 @@
 
 ## Experience
 
-Currently Software Developer Intern at [Dakoo - The Super App](https://dakoo.app) [October, 2022 - Present]
+Software Developer Intern at [Dakoo - The Super App](https://dakoo.app) [October, 2022 - December, 2022]
+Associate Software Engineer at MAQ Software [January, 2023 - Present]
   
 ## Connect with me
 
