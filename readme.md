@@ -11,9 +11,9 @@
 
 ## Experience
 
-Software Developer Intern at [Dakoo - The Super App](https://dakoo.app) [October, 2022 - December, 2022]
-Associate Software Engineer at MAQ Software [January, 2023 - July, 2023]
-Software Engineer - I at MAQ Software [July, 2023 - Present]
+- Software Developer Intern at [Dakoo - The Super App](https://dakoo.app) [October, 2022 - December, 2022]
+- Associate Software Engineer at MAQ Software [January, 2023 - July, 2023]
+- Software Engineer - I at MAQ Software [July, 2023 - Present]
   
 ## Connect with me
 
