@@ -1,17 +1,19 @@
 # 👋 Hey there, I'm **Priyanshu Srivastava** ![profile view count](https://komarev.com/ghpvc/?username=priyanshu4705&label=Profile%20views&color=0e75b6&style=flat)
 
-    - 21 | 💻 Software Engineer and final year CSE Student | 🎒 GLBITM collage | 🏢 MAQ Software | AKTU university
+    - 22 | 💻 Software Engineer I | 🎒 GLBITM collage | 🏢 MAQ Software | AKTU university
+    - Currently my job Description would fall in Data Engineering and Analytics bucket
     - from Basti, UP, India
     - loves to code with ☕ and 🎵
 
-## Languages i use
+## Tools i use
 
-    python, javascript, java and php (basic)
+    python, SQL, Complete Azure Ecosystem, java, javascript, rust (learning)
 
 ## Experience
 
 Software Developer Intern at [Dakoo - The Super App](https://dakoo.app) [October, 2022 - December, 2022]
-Associate Software Engineer at MAQ Software [January, 2023 - Present]
+Associate Software Engineer at MAQ Software [January, 2023 - July, 2023]
+Software Engineer - I at MAQ Software [July, 2023 - Present]
   
 ## Connect with me
 
