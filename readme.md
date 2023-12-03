@@ -1,13 +1,13 @@
 # 👋 Hey there, I'm **Priyanshu Srivastava** ![profile view count](https://komarev.com/ghpvc/?username=priyanshu4705&label=Profile%20views&color=0e75b6&style=flat)
 
     - 22 | 💻 Software Engineer I | 🎒 GLBITM collage | 🏢 MAQ Software | AKTU university
-    - Currently my job Description would fall in Data Engineering and Analytics bucket
+    - Working as a Data Engineer, Analyst and Software Developer
     - from Basti, UP, India
     - loves to code with ☕ and 🎵
 
 ## Tools i use
 
-    python, SQL, Complete Azure Ecosystem, java, javascript, rust (learning)
+    python (pyspark), SQL (T-SQL), Complete Azure Ecosystem (Databricks, DataLake, Data Factory, Synapse), java, javascript (React), Power BI
 
 ## Experience
 
