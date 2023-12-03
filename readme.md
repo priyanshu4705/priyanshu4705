@@ -7,7 +7,9 @@
 
 ## Tools i use
 
-    python (pyspark), SQL (T-SQL), Complete Azure Ecosystem (Databricks, DataLake, Data Factory, Synapse), java, javascript (React), Power BI
+    - python (pyspark), SQL (T-SQL)
+    - Complete Azure Ecosystem (Databricks, DataLake, Data Factory, Synapse)
+    - javascript (React), Power BI
 
 ## Experience
 
