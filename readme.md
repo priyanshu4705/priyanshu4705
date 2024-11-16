@@ -1,38 +1,33 @@
 # 👋 Hey there, I'm **Priyanshu Srivastava** ![profile view count](https://komarev.com/ghpvc/?username=priyanshu4705&label=Profile%20views&color=0e75b6&style=flat)
 
-    - 22 | 💻 Software Engineer I | 🎒 GLBITM collage | 🏢 MAQ Software | AKTU university
-    - Working as a Data Engineer, Analyst and Software Developer
-    - from Basti, UP, India
-    - loves to code with ☕ and 🎵
+    - 23 | 💻 Software Engineer I | 🏢 MAQ Software | 🎒 GLBITM collage | AKTU university
+    - Working as a Data Engineer, BI Developer and Software Developer
+    - from Noida, India
+    - 💜 to code with ☕ and 🎵
 
-## Tools i use
+## What I'm working on
 
-    - python (pyspark), SQL (T-SQL)
-    - Complete Azure Ecosystem (Databricks, DataLake, Data Factory, Synapse)
-    - javascript (React), Power BI
+    - python (pyspark), SQL (T-SQL, spark-sql), C#
+    - Complete Azure Data Ecosystem (Databricks, MS-Fabric, DataLake, Data Factory, Synapse)
+    - typescript (Next.js), Power BI
 
 ## Experience
 
+- Data Engineer / BI Developer as Contractor for PepsiCo | Software Engineer - I at MAQ Software [July, 2023 - Present]
+- Data Engineer / BI Developer as Contractor for PepsiCo | Associate Software Engineer at MAQ Software [January, 2023 - July, 2023]
 - Software Developer Intern at [Dakoo - The Super App](https://dakoo.app) [October, 2022 - December, 2022]
-- Associate Software Engineer at MAQ Software [January, 2023 - July, 2023]
-- Software Engineer - I at MAQ Software [July, 2023 - Present]
-  
+
 ## Connect with me
 
 - 📬 Reach me at [Gmail](mailto:priyanshusrivastava4705@gmail.com)
 - [Instagram](https://www.instagram.com/priyanshu4705/)
 - [Linked In](https://www.linkedin.com/in/priyanshu-srivastava-b49a00204/)
 
-## My Live Projects
+## Certificates
 
-- whatsapp clone [repo](https://github.com/priyanshu4705/whatsapp-clone-frontend)
-- [Covid-19 Tracker](https://covid-project-df93b.web.app/)
-- [Sorting Visualizer](https://sorting-visualizer-26676.web.app/)
-- [Recipie Finder](https://recipefinder-b6ea4.web.app/)
-- [Movie-Info Database](https://movie-database-app-4705.web.app/)
-- [Firegram - Online Photo Bucket](https://firegram-35b7f.web.app/)
-- [Weather App](https://react-weather-app-4b0eb.web.app/)
-- [Simple StopWatch](https://stopwatch-4f9d3.web.app/)
+- [Microsoft Certified: Fabric Analyst Engineer](https://drive.google.com/file/d/1X2_MuxJJDTpO1dGkYdD365CQHmFtQChm/view)
+- [Dakoo Internship Certificate](https://drive.google.com/file/d/1Ymk3btYLw2cbSMN5LTvUNCQhP2wnoY00/view)
+- [Udemy Python zero to hero Bootcamp](https://drive.google.com/file/d/1E9jHxLTLo8SXBgeFlWhBYW1uE5943nP5/view)
 
 ## Stats
 
